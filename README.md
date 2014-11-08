@@ -2,7 +2,7 @@
 
 A witch for your terminal.  Now **that's** witchcraft!
 
-![Screenshot][http://nilsding.org/hexe/hexe.png]
+![Screenshot](http://nilsding.org/hexe/hexe.png)
 
 A video says more than 1000 pictures:
 [webm](http://nilsding.org/hexe/hexe.webm)
