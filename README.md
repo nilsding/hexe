@@ -2,7 +2,10 @@
 
 A witch for your terminal.  Now **that's** witchcraft!
 
-Demo video: [webm](http://nilsding.org/hexe/hexe.webm)
+![Screenshot][http://nilsding.org/hexe/hexe.png]
+
+A video says more than 1000 pictures:
+[webm](http://nilsding.org/hexe/hexe.webm)
 [mp4](http://nilsding.org/hexe/hexe.mp4)
 
 Inspired by [gti](https://github.com/rwos/gti) and sl.
