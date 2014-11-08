@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+
+require 'hexe'
+
+Hexe.new.hex_hex!
+
